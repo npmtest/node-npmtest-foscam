@@ -1,8 +1,8 @@
 # npmtest-foscam
 
-test coverage for  [foscam (v0.2.2)](https://github.com/fvdm/nodejs-foscam#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-foscam.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-foscam) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-foscam.svg)](https://travis-ci.org/npmtest/node-npmtest-foscam)
+#### basic test coverage for  [foscam (v0.2.2)](https://github.com/fvdm/nodejs-foscam#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-foscam.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-foscam) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-foscam.svg)](https://travis-ci.org/npmtest/node-npmtest-foscam)
 
-Remote control, view and config a Foscam/Tenvis IP camera
+#### Remote control, view and config a Foscam/Tenvis IP camera
 
 [![NPM](https://nodei.co/npm/foscam.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/foscam)
 
@@ -10,7 +10,7 @@ Remote control, view and config a Foscam/Tenvis IP camera
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-foscam/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-foscam/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-foscam/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-foscam/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-foscam/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-foscam/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-foscam/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-foscam/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-foscam/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-foscam/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-foscam/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-foscam/build/coverage.html/index.html)
 
@@ -73,7 +73,8 @@ Remote control, view and config a Foscam/Tenvis IP camera
         "type": "git",
         "url": "git://github.com/fvdm/nodejs-foscam.git"
     },
-    "version": "0.2.2"
+    "version": "0.2.2",
+    "bin": {}
 }
 ```
 
